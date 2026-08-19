@@ -1,6 +1,8 @@
 # Sudhiksha Prabhakar
 
-👋 Hi! I'm a final-year **Computer Science Engineering** student at Jyothy Institute of Technology, Bengaluru (GPA: 8.91). I specialize in **Full-Stack Web Development (MERN)**, **AI/ML & GenAI Integration**, and **Data Analytics**.
+✨ **Full-Stack Developer | AI/ML & GenAI Enthusiast | Problem Solver** ✨
+
+👋 Hi there! I'm **Sudhiksha**, a final-year Computer Science Engineering student driven by a passion for turning ideas into intuitive, scalable software. From crafting responsive **MERN stack** applications to integrating cutting-edge **AI/ML & GenAI** models, I love building technology that solves real-world challenges!
 
 - 📧 **Email:** [sudhikshap3@gmail.com](mailto:sudhikshap3@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/sudhikshap](https://linkedin.com/in/sudhikshap)
