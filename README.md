@@ -1,8 +1,12 @@
 # Sudhiksha Prabhakar
 
-✨ **Full-Stack Developer | AI/ML & GenAI Enthusiast | Problem Solver** ✨
+### 👋 Hi, I'm Sudhiksha!
 
-👋 Hi there! I'm **Sudhiksha**, a final-year Computer Science Engineering student driven by a passion for turning ideas into intuitive, scalable software. From crafting responsive **MERN stack** applications to integrating cutting-edge **AI/ML & GenAI** models, I love building technology that solves real-world challenges!
+I'm a **Computer Science Engineering student** passionate about turning ideas into practical, impactful software. I enjoy building with **Java, Python, and the MERN stack**, while exploring **AI/ML and emerging technologies**.
+
+💡 I love solving problems, learning by building, and constantly pushing myself to write better code. Currently, I'm sharpening my **DSA skills** and exploring new ways to combine **software development with AI**.
+
+🚀 **Learn. Build. Solve. Repeat.**
 
 - 📧 **Email:** [sudhikshap3@gmail.com](mailto:sudhikshap3@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/sudhikshap](https://linkedin.com/in/sudhikshap)
