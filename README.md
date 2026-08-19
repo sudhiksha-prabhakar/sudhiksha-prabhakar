@@ -41,13 +41,6 @@
 - Developed an interactive mock interview platform powered by **Gemini AI**.
 - Generates custom interview questions dynamically and provides real-time feedback on user responses.
 
----
-
-## 🎓 Education
-
-- **B.E. in Computer Science Engineering** | Jyothy Institute of Technology, Bengaluru (2023 – 2027) — **GPA: 8.91**
-- **Pre-University (PU)** | National PU College, Bengaluru (2023) — **92.8%**
-- **SSLC** | National High School, Bengaluru (2021) — **90%**
 
 ---
 
